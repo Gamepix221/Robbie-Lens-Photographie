@@ -50,9 +50,10 @@ a:hover {
   text-decoration: underline;
 }
 .cta:hover{
-  background: linear-gradient(#696484,#8788BA);
+  background: linear-gradient(#696484, #8788BA);
+  text-decoration: none;
 }
 
-entete, pied-de-page:hover{
+lien-icone:hover{
   opacity: 0.5;
 }
