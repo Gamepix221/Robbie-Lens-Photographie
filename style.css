@@ -46,3 +46,13 @@ li {
   border-right: 1px solid #A5B4FC;
   border-bottom: 1px solid #A5B4FC;
 }
+a:hover {
+  text-decoration: underline;
+}
+.cta:hover{
+  background: linear-gradient(#696484,#8788BA);
+}
+
+:hover{
+  opacity: 0.5;
+}
