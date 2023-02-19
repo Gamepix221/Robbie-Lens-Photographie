@@ -38,11 +38,9 @@ li {
 .cta {
   background: linear-gradient(#8e86b5, #acaeed);
   color: white;
-}
-
-.contact{
   border-radius: 50px;
 }
+
 
 .contenu{
   border-right: 1px solid #A5B4FC;
