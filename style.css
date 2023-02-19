@@ -53,6 +53,6 @@ a:hover {
   background: linear-gradient(#696484,#8788BA);
 }
 
-:hover{
+entete, pied-de-page:hover{
   opacity: 0.5;
 }
