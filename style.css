@@ -30,8 +30,8 @@ li {
   color: #f9f8ff;
 }
 
-.entete,
-.pied-de-page {
+header,
+footer {
   background-color: white;
 }
 
@@ -41,8 +41,7 @@ li {
   border-radius: 50px;
 }
 
-
-.contenu{
+main{
   border-right: 1px solid #A5B4FC;
   border-bottom: 1px solid #A5B4FC;
 }
